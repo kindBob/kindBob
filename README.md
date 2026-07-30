@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Vladyslav 👋
 
-<!--
-**kindBob/kindBob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer passionate about building modern web applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3 / SCSS
+* Firebase
+* Git
+* GitHub
+
+## 🌱 Currently Learning
+
+* Python
+* Artificial Intelligence
+* Backend Development
+
+## 📌 Featured Project
+
+### NutriSave
+
+A student-focused recipe web application that helps users find affordable meals.
+
+Built with:
+
+* React
+* TypeScript
+* Firebase
+* SCSS
+
+## 📫 Contact
+
+Email: [vladkostromin10@gmail.com](mailto:vladkostromin10@gmail.com)
+
+Location: Denmark / Ukraine
