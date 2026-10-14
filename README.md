@@ -1,39 +1,23 @@
-# Hi, I'm Vladyslav 👋
+# Hi, I’m Vladyslav 👋
 
-Junior Frontend Developer passionate about building modern web applications.
+I build web applications with TypeScript, React, and Node.js. I’m interested in creating useful, polished products and exploring how AI can make software more helpful.
 
-## 💻 Tech Stack
+## Featured project
 
-* React
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3 / SCSS
-* Firebase
-* Git
-* GitHub
+### [SmartChat AI](https://github.com/kindBob/smartchat-ai)
 
-## 🌱 Currently Learning
+A full-stack AI chat app built with React, TypeScript, NestJS, Neon Auth, PostgreSQL, and Google Gemini.
 
-* Python
-* Artificial Intelligence
-* Backend Development
+- Manage conversations and keep chat history across sessions
+- Generate assistant responses and chat titles with Gemini
+- Sign in with email using Neon Auth
 
-## 📌 Featured Project
+## Technologies
 
-### NutriSave
+**Frontend:** React · TypeScript · Vite · SCSS  
+**Backend:** Node.js · NestJS · PostgreSQL · Prisma  
+**Other:** Neon Auth · Google Gemini
 
-A student-focused recipe web application that helps users find affordable meals.
+## Find me
 
-Built with:
-
-* React
-* TypeScript
-* Firebase
-* SCSS
-
-## 📫 Contact
-
-Email: [vladkostromin10@gmail.com](mailto:vladkostromin10@gmail.com)
-
-Location: Denmark / Ukraine
+- GitHub: [@kindBob](https://github.com/kindBob)
